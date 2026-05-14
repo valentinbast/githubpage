@@ -1,8 +1,8 @@
 title: Valentin Bast
 email: valentin.bast@proton.me
 description: Personal projects, experiments, and a small blog.
-url: ""
-baseurl: ""
+url: "https://valentinbast.github.io"
+baseurl: "/githubpage"
 theme: jekyll-theme-cayman
 markdown: kramdown
 author:
