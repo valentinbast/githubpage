@@ -5,12 +5,12 @@ title: Home
 
 ## Hello, Valentin
 
-Welcome to my personal site. Here you’ll find my latest projects, experiments, and a blog about the topics that interest me. Mainly quantitative modelling of eco-societal interactions, Agent Based Models, green transition, methods so a wide array
+Welcome to my personal site. Here you’ll find my latest projects and a blog about the topics that interest me the most. Mainly quantitative modelling of eco-societal interactions, Agent Based Models, green transition(s) and technology, quantitative methods - primarily the usage of networks for economic modelling - so a wide array of things. 
 
 ### Explore
 
-- [Projects](/projects/) — A showcase of apps, tools, and work I’m building.
-- [Blog](/blog/) — Notes, tutorials, and stories from my learning journey.
+- [Projects](/projects/) — A showcase of the code I used for my research
+- [Blog](/blog/) — Short articles on some interesting tipics
 
 ### Featured
 
@@ -21,4 +21,4 @@ Welcome to my personal site. Here you’ll find my latest projects, experiments,
 
 ### About
 
-I’m building software that solves problems and helps me learn fast. This page is a place to share what I’m working on and what I’m learning.
+I am a young system scientist with a focus on complexity in economic, social and ecological systems and their interactions. I take an interest in a wide array of topics - mainly methods from complexity science for quantitative analysis. Lately - of course - Machine Learning and neural networks. 
