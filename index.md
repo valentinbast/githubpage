@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-## Hello, I’m Your Name
+## Hello, Valentin
 
-Welcome to my personal site. Here you’ll find my latest projects, experiments, and a blog about code and creativity.
+Welcome to my personal site. Here you’ll find my latest projects, experiments, and a blog about the topics that interest me. Mainly quantitative modelling of eco-societal interactions, Agent Based Models, green transition, methods so a wide array
 
 ### Explore
 
