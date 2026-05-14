@@ -3,6 +3,7 @@ email: valentin.bast@proton.me
 description: Personal projects, experiments, and a small blog.
 url: "https://valentinbast.github.io"
 baseurl: "/githubpage"
+timezone: Europe/Vienna
 theme: jekyll-theme-cayman
 markdown: kramdown
 author:
