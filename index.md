@@ -9,8 +9,8 @@ Welcome to my personal site. Here you’ll find my latest projects and a blog ab
 
 ### Explore
 
-- [Projects](/projects/) — A showcase of the code I used for my research
-- [Blog](/blog/) — Short articles on some interesting tipics
+- [Projects]({{ '/projects/' | relative_url }}) — A showcase of the code I used for my research
+- [Blog]({{ '/blog/' | relative_url }}) — Short articles on some interesting tipics
 
 ### Featured
 
