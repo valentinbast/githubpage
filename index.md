@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-## Hello, Valentin
+## Welcome to my little website
 
 Welcome to my personal site. Here you’ll find my latest projects and a blog about the topics that interest me the most. Mainly quantitative modelling of eco-societal interactions, Agent Based Models, green transition(s) and technology, quantitative methods - primarily the usage of networks for economic modelling - so a wide array of things. 
 
@@ -11,12 +11,6 @@ Welcome to my personal site. Here you’ll find my latest projects and a blog ab
 
 - [Projects]({{ '/projects/' | relative_url }}) — A showcase of the code I used for my research
 - [Blog]({{ '/blog/' | relative_url }}) — Short articles on some interesting tipics
-
-### Featured
-
-{% for post in site.posts limit:3 %}
-- [{{ post.title }}]({{ post.url }}) — {{ post.date | date: "%B %-d, %Y" }}
-{% endfor %}
 
 
 ### About
