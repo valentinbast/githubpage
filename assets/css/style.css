@@ -1,0 +1,125 @@
+:root {
+  color-scheme: light;
+  color: #111827;
+  background: #ffffff;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #f8fafc;
+}
+
+a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+.container {
+  width: min(100% - 2rem, 1000px);
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.site-header {
+  background: #0f172a;
+  color: #f8fafc;
+  padding: 1rem 0;
+}
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #f8fafc;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+}
+
+.site-nav a {
+  color: #cbd5e1;
+}
+
+.site-nav a:hover {
+  color: #ffffff;
+}
+
+.site-main {
+  background: #ffffff;
+  border-radius: 1rem;
+  box-shadow: 0 20px 50px rgba(15, 23, 42, 0.08);
+  margin: -1.5rem auto 2rem;
+  padding: 2rem;
+}
+
+.page-title h1,
+.post-header h1 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: clamp(2rem, 3vw, 3rem);
+  letter-spacing: -0.03em;
+}
+
+.page-content,
+.post-content {
+  color: #334155;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #0f172a;
+}
+
+p,
+ul,
+ol,
+blockquote {
+  max-width: 70ch;
+}
+
+ul {
+  padding-left: 1.25rem;
+}
+
+footer {
+  padding: 1.25rem 0 2rem;
+}
+
+.site-footer {
+  text-align: center;
+  color: #475569;
+}
+
+@media (min-width: 640px) {
+  .site-header {
+    padding: 1.25rem 0;
+  }
+
+  .site-nav {
+    justify-content: flex-end;
+    margin-top: 0;
+  }
+}
