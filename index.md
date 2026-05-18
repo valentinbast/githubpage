@@ -10,9 +10,9 @@ Welcome to my personal site. Here you’ll find my latest projects and a blog ab
 ### Explore
 
 - [Projects]({{ '/projects/' | relative_url }}) — A showcase of the code I used for my research
-- [Blog]({{ '/blog/' | relative_url }}) — Short articles on some interesting tipics
+- [Blog]({{ '/blog/' | relative_url }}) — Short articles on some interesting topics
 
 
 ### About
 
-I am a young system scientist with a focus on complexity in economic, social and ecological systems and their interactions. I take an interest in a wide array of topics - mainly methods from complexity science for quantitative analysis. Lately - of course - Machine Learning and neural networks. 
+I am a system scientist focused on the intersection of economic, social, and ecological complexity. My work leverages quantitative methods—from Agent-Based Modeling (ABM) to Network Science—to analyze the green transition and socio-economic emergence.

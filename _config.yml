@@ -3,13 +3,10 @@ email: valentin.bast@proton.me
 description: Personal projects, experiments, and a small blog.
 url: "https://valentinbast.github.io"
 baseurl: "/githubpage"
+github_username: valentinbast
 timezone: Europe/Vienna
 theme: jekyll-theme-cayman
 markdown: kramdown
 author:
   name: Valentin Bast
   email: valentin.bast@proton.me
-
-# Uncomment and edit when you publish to GitHub Pages
-# url: "https://your-github-username.github.io"
-# baseurl: ""

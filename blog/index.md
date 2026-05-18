@@ -10,7 +10,11 @@ Welcome to the blog. I write short posts about the projects I build, problems I 
 
 {% if site.posts.size > 0 %}
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
+### [{{ post.title }}]({{ post.url | relative_url }})
+*{{ post.date | date: "%B %-d, %Y" }}*
+
+{{ post.excerpt | strip_html | truncatewords: 35 }}
+
 {% endfor %}
 {% else %}
 No posts yet. Create a new post in the `_posts/` folder to get started.

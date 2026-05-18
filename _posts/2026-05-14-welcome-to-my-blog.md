@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to my blog"
-date: 2026-05-17 09:00:00 +0200
+date: 2026-05-14 09:00:00 +0200
 ---
 
 ## My first post
@@ -24,9 +24,3 @@ Well... there is not really a single definition I would say. Some people will sa
 Given this sort of working-definition, I aim and am able to study a lot... My main interests are still green-transitions. As we work a lot on the modern design of the electricity grid at LIFE, I try working with [AMIRIS](https://gitlab.com/dlr-ve/esy/amiris) to simulate different pathways for a green-transition of the electricity system. AMIRIS can be an enormously huge Agent-Based-Model designed to analyse exactly these sort of things. The creators of the model worked for years on it, developed a whole java core and framework to process input and output as well as a python wrapper to execute scenarios and a python library to programmatically create scenarios to run to the core. But given the complicated structure of the agents interactions and the ways to set that up with .yaml files is hard and I am still working on figuring that out.  
 If I had more time, I would also like to study financial markets. Why? I have some reasons. First, there is a whole stream in Economics called Econophysics that studies them using tools from statistical mechanics focusing on nonlinearities in the markets. So there is a lot of research to explore. Second, financial markets exhibit an enormous amount of data. I sometimes wonder whether we can infer important insights from the study of financial markets towards other domains where the available information is not as big. Maybe the study of financial markets as enormous information distribution systems shed light on the workings of markets in general?  
 Another angle that is important for me is that they are very fragile and that has huge consequences on different layers of society. In fact, I believe that they are inherently unstable and follow some sort of cyclical pattern - a thought closely related to the work of [Hyman Minsky](https://en.wikipedia.org/wiki/Hyman_Minsky).  These are some very broad - and possibly obscure - thoughts or starting points to conduct some research. 
-
-
-
-
-
-
