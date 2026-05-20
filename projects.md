@@ -15,7 +15,7 @@ Below are a few of the projects I’m working on. Click through for details and 
 
 **Technologies:** 
 {% for tag in project.tags %}
-`{{ tag }}`{% unless forloop.last %}, {% endunless %}
+<span class="tag">{{ tag }}</span>
 {% endfor %}
 
 ---
