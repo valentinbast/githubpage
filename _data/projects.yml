@@ -1,9 +1,7 @@
 - name: "Adaptive Global Food Supply Network"
   description: "Research and modeling of adaptive strategies within global food supply networks to enhance resilience and stability."
   url: "https://github.com/valentinbast/AdatptiveGlobalFoodSupplyNetwork"
-  tags: ["Network Science", "Food Systems", "Resilience"]
 
 - name: "Sentiment Analysis"
   description: "A project exploring methods for analyzing and extracting subjective information from text data, often used in social science or market research."
   url: "https://github.com/valentinbast/SentimentAnalysis"
-  tags: ["NLP", "Python", "Data Analysis"]

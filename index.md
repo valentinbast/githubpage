@@ -16,13 +16,11 @@ Welcome to my personal site. Here you'll find my latest projects and a blog abou
 
 <div class="explore-cards">
   <a href="{{ '/projects/' | relative_url }}" class="explore-card">
-    <div class="explore-icon">🚀</div>
     <h3>Projects</h3>
     <p>A showcase of the code I used for my research</p>
   </a>
   
   <a href="{{ '/blog/' | relative_url }}" class="explore-card">
-    <div class="explore-icon">📝</div>
     <h3>Blog</h3>
     <p>Short articles on some interesting topics</p>
   </a>

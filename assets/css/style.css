@@ -580,13 +580,6 @@ hr {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-.explore-icon {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  display: block;
-  color: var(--primary-color);
-}
-
 .explore-card h3 {
   font-size: 1.25rem;
   font-weight: 600;

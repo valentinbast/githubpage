@@ -13,10 +13,7 @@ Below are a few of the projects I’m working on. Click through for details and 
 
 {{ project.description }}
 
-**Technologies:** 
-{% for tag in project.tags %}
-<span class="tag">{{ tag }}</span>
-{% endfor %}
+
 
 ---
 {% else %}
